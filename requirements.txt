@@ -10,3 +10,4 @@ yfinance
 fastdist==1.1.5
 numba==0.48
 scikit-learn
+scipy
