@@ -1,3 +1,4 @@
+plotly
 pystan==2.19.1.1
 prophet==1.0
 numpy==1.21.6
